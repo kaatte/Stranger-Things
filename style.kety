@@ -1,0 +1,9 @@
+body {
+  background: black
+}
+# título {
+    text-align: centro;
+}
+# t1 {
+    text-align: esquerda;
+}
